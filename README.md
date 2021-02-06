@@ -12,3 +12,5 @@ The citation sources you need are:
 
 http://www.brainyquote.com/quotes/authors/c/confucius.html for the Confucius quote
 http://www.affirmationsforpositivethinking.com for "The Need To Eliminate Negative Self Talk".
+
+Live web: https://gitthuma.github.io/quotes-and-citations/
